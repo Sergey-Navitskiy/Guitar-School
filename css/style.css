@@ -932,11 +932,19 @@ html {
   }
 }
 @media (max-width: 767px) {
+  .main_section__logo {
+    width: 90px;
+  }
   .container {
     width: 540px;
   }
+  .left-wrapper__rectangle-blue {
+    width: 274px;
+    height: 81px;
+  }
   .left-wrapper img {
-    width: 323px;
+    width: 346px;
+    top: 100px;
   }
   .title {
     z-index: 8;
